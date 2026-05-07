@@ -1,4 +1,4 @@
-
+exclusive Alfred for macOS Plugin | multi-device sync + reminders is the best Alfred for macOS plugin, featuring multi-device sync and reminders. Safe, efficient, and optimized
 
 
 
